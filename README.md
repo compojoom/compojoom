@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Daniel! I currenlty work for [brainbot technologies AG](https://github.com/brainbot-com/) in the crypto space and I basically live on GitHub.
+
+If you don't know me, I ...
+
+- 🌍 describe myself as Earthling 😄
+- 🙊 Started out as web developer/Joomla developer. Moved into app development with React-Native & and now enjoy the crypto space
+- 👩‍💻 Love talking to developers & non-developers :)
+
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=compojoom&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=compojoom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
