@@ -5,8 +5,8 @@ I'm Daniel! I currenlty work for [brainbot technologies AG](https://github.com/b
 If you don't know me, I ...
 
 - 🌍 describe myself as Earthling 😄
-- 🙊 Started out as web developer/Joomla developer. Moved into app development with React-Native & and now enjoy the crypto space
-- 👩‍💻 Love talking to developers & non-developers :)
+- 🙊 Started out as web developer/Joomla developer. Moved into app development with React-Native & now enjoy the crypto space
+- 👩‍💻 Love talking to developers & non-developers alike :)
 
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=compojoom&count_private=true)
 
