@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel! I currently work for [safe Global]([https://github.com/safe-global/]) in the crypto space and I basically live on GitHub.
+I'm Daniel! I currently work for [Safe Global](https://github.com/safe-global/) in the crypto space and I basically live on GitHub.
 
 If you don't know me, I ...
 
